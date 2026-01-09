@@ -15,7 +15,7 @@
 vendor/
 
 # Build directory
-build/
+ai-sandbox/build/
 
 # IDE
 /.idea/
@@ -37,4 +37,4 @@ coverage.html
 
 # claude
 /.spec-workflow/
-/.claude/
+//.claude/
