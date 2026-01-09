@@ -37,4 +37,4 @@ coverage.html
 
 # claude
 /.spec-workflow/
-//.claude/
+/.claude/
